@@ -1,4 +1,4 @@
-# DataVine Analytics – Machine Learning Prototypes
+# DataVine Analytics --> Machine Learning Prototypes
 
 This project demonstrates three machine learning applications using standardized datasets:
 
